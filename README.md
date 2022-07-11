@@ -14,10 +14,3 @@
 
 <img width="44%" src="https://github-readme-stats.vercel.app/api?username=adrianordg&show_icons=true&locale=en" alt="adrianordg" />
 </div>
-  
-
-<div align="center">
-<img width="49%" height="200rem" src="https://github-readme-stats.vercel.app/api?username=jovemcleb&show_icons=true&count_private=true&hide_border=true&theme=nightowl" /> 
-
-<img width="44%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemcleb&hide_border=true&layout=compact&theme=nightowl" />
-</div>
