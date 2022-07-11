@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou Adriano</h1>
-<h3 align="center">Um estudante de programação web na Trybe</h3>
+<h1 align="left">Olá 👋, Eu sou Adriano</h1>
+<h3 align="left">Um estudante de programação web na Trybe</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,6 +11,7 @@
 
 <div align=center>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianordg&show_icons=true&locale=en&layout=compact" alt="adrianordg" /></p>
-</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianordg&show_icons=true&locale=en" alt="adrianordg" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adrianordg&show_icons=true&locale=en" alt="adrianordg" /></p>
+</div>
+  
