@@ -1,5 +1,7 @@
-<h1 align="left">Olá 👋, Eu sou Adriano</h1>
-<h3 align="left">Um estudante de programação web na Trybe</h3>
+# Olá 👋, Eu sou Adriano
+
+## 🚀 Sobre mim
+Sou um estudante de programação web na Trybe
 
 
 ## 🔗 Links
