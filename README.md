@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋, Eu sou Adriano</h1>
 <h3 align="left">Um estudante de programação web na Trybe</h3>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <a href="https://linkedin.com/in/adriano-rdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriano-rdg" height="30" width="40" /></a>
 
 
