@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <div align=center>
-<p><img align="left" with="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianordg&show_icons=true&locale=en&layout=compact" alt="adrianordg" /></p>
+<p><img with="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianordg&show_icons=true&locale=en&layout=compact" alt="adrianordg" /></p>
 
-<p>&nbsp;<img align="right" with="55%" src="https://github-readme-stats.vercel.app/api?username=adrianordg&show_icons=true&locale=en" alt="adrianordg" /></p>
+<p>&nbsp;<img with="55%" src="https://github-readme-stats.vercel.app/api?username=adrianordg&show_icons=true&locale=en" alt="adrianordg" /></p>
 </div>
   
 
@@ -21,5 +21,3 @@
 
 <img width="44%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemcleb&hide_border=true&layout=compact&theme=nightowl" />
 </div>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=jovemcleb&bg_color=0f172a&color=ffffff&line=a855f7&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
