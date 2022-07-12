@@ -17,7 +17,7 @@ Sou um estudante de programação web na Trybe
 ## GitHub Status
 
 <div align=center>
-<img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianordg&show_icons=true&locale=en&layout=compact" alt="adrianordg" />
+<img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianordg&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="adrianordg" />
 
 <img width="44%" height="150px" src="https://github-readme-stats.vercel.app/api?username=adrianordg&show_icons=true&locale=en" alt="adrianordg" />
 </div>
