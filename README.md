@@ -1,7 +1,11 @@
 # Olá 👋, Eu sou Adriano
 
 ## 🚀 About me
-Gamer, estudante de programação web na Trybe e cursando Sistemas de Informação na UFRA
+
+<ul>
+ <li>Desenvolvedor Full Stack pela Trybe</li>
+ <li>Estudante de Sistemas de Infomação na UFRA</li>
+</ul>
 
 
 ## Contact
