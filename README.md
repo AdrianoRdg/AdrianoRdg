@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou Adriano
+Opa, eu sou o < Adriano /> 🤖
 
 ## 🚀 About me
 
