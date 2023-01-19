@@ -35,3 +35,9 @@
 
   <img width="44%" height="150px" src="https://github-readme-stats.vercel.app/api?username=adrianordg&show_icons=true&locale=en&theme=nightowl"           alt="adrianordg" />
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{adrianordg}/count.svg" /></p> 
+<br>
+</div>
