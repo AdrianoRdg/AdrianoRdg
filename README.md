@@ -1,11 +1,17 @@
-<h1 align="center">Opa, eu sou o < Adriano /> 🧑‍💻</h1>
-<p align="center">Desenvolvedor Full Stack | Apaixonado por tecnologia e soluções criativas</p>
 
-## 🚀 Sobre mim
+## E aí, eu sou o < Adriano /> 
 
-- 👨‍💻 Desenvolvedor Full Stack formado pela [Trybe](https://www.betrybe.com/)
+<img src="assets/avatar.png" height="150" align="right" style="margin-left: 20px;" />
+
+###
+
+<p>Desenvolvedor Full Stack | Apaixonado por tecnologia e soluções criativas</p>
+
+
+- 👨‍💻 Desenvolvedor Full Stack formado pela Trybe
 - 🎓 Graduando em Sistemas de Informação pela UFRA
 - 🔍 Foco em desenvolvimento web, backend e boas práticas
+- ☕ Atualmente estudando **Java**
 
 
 ## Languages and Tools
